@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbetik12&label=Profile%20views&color=0e75b6&style=flat" alt="rbetik12" /> </p>
 
-- 🔭 I’m currently working on [RightEngine2D](https://github.com/rbetik12/RightEngine2D)
+- 🔭 I’m currently working on [RightEngine](https://github.com/rbetik12/RightEngine2D)
 
 - 📫 How to reach me **mr.prikota@gmail.com**
 
